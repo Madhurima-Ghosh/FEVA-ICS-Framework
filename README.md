@@ -1,4 +1,4 @@
-# Evasion and Validation of Industrial Control Systems (EVA-ICS) Framework
+# Framework for Evasion and Validation of Industrial Control Systems (FEVA-ICS)
 
 This project provides a Jupyter Notebook-based **benchmarking framework** for evaluating the **adversarial robustness** of **Machine Learning-based Intrusion Detection Systems (IDS)** and **Anomaly Detectors** in **Industrial Control Systems (ICS)**.
 
@@ -6,8 +6,8 @@ The framework is implemented entirely in a single notebook: `framework.ipynb`.
 
 ## 📌 Overview
 
-- ⚔️ Evaluate ML-based ICS-NIDS under various adversarial attacks
-- 🧠 Supports NIDS models of different architectures (gradient and non-gradient based)
+- ⚔️ Evaluate ML-based ICS-IDS under various adversarial attacks
+- 🧠 Supports IDS models of different architectures (gradient and non-gradient based)
 - 🧪 Measures robustness using key metrics like Accuracy, Recall, and Precision
 - 🛠️ Designed for reproducibility and ease of extension
 
@@ -19,10 +19,6 @@ The framework is implemented entirely in a single notebook: `framework.ipynb`.
 - Model Stealing
 - Evasion Attacks
 - Evaluation
-
-The framework follows a modular, step-by-step process as shown below.
-
-![Framework Workflow](./Framework_workflow.png)
 
 ## ⚙️ Customization: Parameters, Dataset, and Targeted Model
 
