@@ -1,6 +1,6 @@
 # Evasion and Validation of Industrial Control Systems (EVA-ICS) Framework
 
-This project provides a Jupyter Notebook-based **benchmarking framework** for evaluating the **adversarial robustness** of **Machine Learning-based Network Intrusion Detection Systems (NIDS)** and **Anomaly Detectors** in **Industrial Control Systems (ICS)**.
+This project provides a Jupyter Notebook-based **benchmarking framework** for evaluating the **adversarial robustness** of **Machine Learning-based Intrusion Detection Systems (IDS)** and **Anomaly Detectors** in **Industrial Control Systems (ICS)**.
 
 The framework is implemented entirely in a single notebook: `framework.ipynb`.
 
