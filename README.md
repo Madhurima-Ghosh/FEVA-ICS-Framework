@@ -48,6 +48,7 @@ The framework is **fully customizable**:
 | `access`             | Access to the NIDS (blackbox/whitebox)   |
 | `confidence`             | Confidence factor of Carlini and Wagner loss  |
 | `protected_cols`  | Features that should not be modified in adversarial examples                |
+|---------------------|-----------------------------------------------------------------------------|
 
 > ℹ️ Modify these values directly in the notebook cells as per your experimental setup.
 
@@ -72,5 +73,7 @@ You can install them using:
 
 ```bash
 pip install -r requirements.txt
+
+
 
 
