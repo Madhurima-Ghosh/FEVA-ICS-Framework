@@ -25,9 +25,16 @@ The framework is implemented entirely in a single notebook: `framework.ipynb`.
 The framework is **fully customizable**:
 
 - 🔧 **Change the dataset**: Use your own or public datasets like SWaT or BATADAL.
+
 The Datasets are publicly available at:
+
 To install each dataset, simply download and extract the archives on disk. The datasets are redistributions of existing and copyrighted datasets, we only offer a convenient repackaging of these datasets.
 - 🎯 **Upload your targeted NIDS**: Upload your own executable targeted ML-based NIDS and Anomaly Detector (in pickle, joblib or h5 format).
+
+**List of Models provided**
+
+You can directly download the trained models from: 
+
 - 🧪 **Adjust attack or training parameters** to test different robustness scenarios.
 
 ### 🔍 Parameter List
