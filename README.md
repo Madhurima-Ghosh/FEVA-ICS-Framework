@@ -4,8 +4,6 @@ This project provides a Jupyter Notebook-based **benchmarking framework** for ev
 
 The framework is implemented entirely in a single notebook: `framework.ipynb`.
 
-The leaderbaord is available at FEVA_ICS Leaderboard [https://ankushmeshram.github.io/feva-ics-leaderboard/]
-
 ## 📌 Overview
 
 - ⚔️ Evaluate ML-based ICS-IDS under various adversarial attacks
